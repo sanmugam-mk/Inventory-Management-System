@@ -29,8 +29,8 @@ A full-stack web application built using:
 ## To Run the Server
 
 ### Backend 
-   path: (myenv) PS C:\Users\sunda\OneDrive\Desktop\Fastapi-demo> 
-   cmd: python -m uvicorn main:app --reload
+ - path: (myenv) PS C:\Users\sunda\OneDrive\Desktop\Fastapi-demo> 
+ - cmd: python -m uvicorn main:app --reload
 ### Frontend
-   path: PS C:\Users\sunda\OneDrive\Desktop\Fastapi-demo\frontend>
-   cmd: npm start
+ - path: PS C:\Users\sunda\OneDrive\Desktop\Fastapi-demo\frontend>
+ - cmd: npm start
